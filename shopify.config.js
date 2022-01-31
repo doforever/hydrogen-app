@@ -1,6 +1,6 @@
 export default {
   locale: 'en-us',
-  storeDomain: 'hydrogen-preview.myshopify.com',
-  storefrontToken: '3b580e70970c4528da70c98e097c2fa0',
+  storeDomain: 'dorotas-test-2.myshopify.com',
+  storefrontToken: 'f0e6802406c223c4e8b992911f196c15',
   graphqlApiVersion: 'unstable',
 };
